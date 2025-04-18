@@ -38,8 +38,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/target-account-matching.git
-   cd target-account-matching
+   git clone https://github.com/iamvtyagi/profile_match.git
+   cd profile_match
    ```
 
 2. Install dependencies:
